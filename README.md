@@ -1,5 +1,5 @@
-# SkillMap-template
-Template for skillmap related tasks
+# random-pet
+Random pet repo used for remote_state learning
 
 ## Description
 What the goal of this repo ?
